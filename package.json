@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "express-jwt-permissions": "^1.3.3",
+    "jwks-rsa": "^2.0.3"
+  },
+  "name": "tempguard2backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkunke1/tempGuard2Backend.git"
+  },
+  "author": "Brandon Kunkel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkunke1/tempGuard2Backend/issues"
+  },
+  "homepage": "https://github.com/bkunke1/tempGuard2Backend#readme"
+}
